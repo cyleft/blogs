@@ -14,6 +14,7 @@
 |Introduction | Address|  RSS feed | tags
 |---|---|---|---|
 |站在莫比乌斯环的中央| https://www.hanomo.com/| https://www.hanomo.com/feed/| 编程|
+|時雨の記| https://drizzle.vip/| https://drizzle.vip/feed/| 记事|
 
 ## 什么是独立博客
 
