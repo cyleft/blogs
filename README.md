@@ -16,6 +16,7 @@
 |站在莫比乌斯环的中央| https://www.hanomo.com/| https://www.hanomo.com/feed/| 编程|
 |時雨の記| https://drizzle.vip/| https://drizzle.vip/feed/| 记事|
 |淮城一只猫| https://iiong.com/| https://iiong.com/rss/| 编程|
+|静之森| https://innei.ren/| https://innei.ren/feed| 日记| 
 
 ## 什么是独立博客
 
